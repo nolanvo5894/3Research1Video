@@ -1,5 +1,10 @@
 ffmpeg
 libcairo2-dev
 pkg-config
+
+libpango1.0-dev
+
+libsdl2-dev
+libffi-dev
 flac
 sox 
