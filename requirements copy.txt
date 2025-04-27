@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+manim
+manim-slides
+manim-voiceover
+tavily-python
+llama-index-core
+llama-index-llms-azure-openai
+pydantic 
